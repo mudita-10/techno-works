@@ -18,9 +18,9 @@ int main()
     for(i=1;i<n;i++)
     {
         if(minimum>number[i])
-		minimum=number[i];   
-		if(maximum<number[i])
-		maximum=number[i];       
+	minimum=number[i];   
+	if(maximum<number[i])
+	maximum=number[i];       
     }
     printf("Minimum number is %d\n",minimum);
     printf("Maximum number is %d\n",maximum);
