@@ -1,7 +1,7 @@
 /*
 
 Created by: Mudita Bhowmick
-Program to find the fibonacci series upto n number using function.
+Program to find the fibonacci series upto n terms using function.
 
 */
 
