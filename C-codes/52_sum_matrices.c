@@ -20,7 +20,7 @@ int main()
       printf("Enter element a%d%d: ", i + 1, j + 1);
       scanf("%d", &array1[i][j]);
     }
-    printf("Enter elements of 2nd matrix:\n");
+    printf("Enter elements of second matrix:\n");
     for (i = 0; i < rows; ++i)
     for (j = 0; j < columns; ++j)
     {
