@@ -10,7 +10,7 @@ int main()
 {
     int rows,columns,array1[10][10],array2[10][10],sum[10][10],i,j;
     printf("\nEnter the number of rows:\n");
-    scanf("%d", &rows);
+    scanf("%d", &rows);  
     printf("Enter the number of columns:\n");
     scanf("%d", &columns);
     printf("Enter elements of first matrix:\n");
