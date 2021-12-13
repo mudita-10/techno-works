@@ -32,7 +32,7 @@ int main()
     {
       sum[i][j] = array1[i][j] + array2[i][j];
     }
-    printf("Sum of two matrices:\n");
+    printf("Sum of the two matrices:\n");
     for (i = 0; i < rows; ++i)
     for (j = 0; j < columns; ++j)
     {
